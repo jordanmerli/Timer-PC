@@ -1,0 +1,65 @@
+C:\Users\merli\AppData\Local\Temporary Projects\Timer PC\bin\Debug\Timer PC.exe
+C:\Users\merli\AppData\Local\Temporary Projects\Timer PC\bin\Debug\Timer PC.pdb
+C:\Users\merli\AppData\Local\Temporary Projects\Timer PC\bin\Debug\Timer PC.xml
+C:\Users\merli\AppData\Local\Temporary Projects\Timer PC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\merli\AppData\Local\Temporary Projects\Timer PC\obj\x86\Debug\Timer_PC.Form1.resources
+C:\Users\merli\AppData\Local\Temporary Projects\Timer PC\obj\x86\Debug\Timer_PC.Resources.resources
+C:\Users\merli\AppData\Local\Temporary Projects\Timer PC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\merli\AppData\Local\Temporary Projects\Timer PC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\merli\AppData\Local\Temporary Projects\Timer PC\obj\x86\Debug\Timer PC.exe
+C:\Users\merli\AppData\Local\Temporary Projects\Timer PC\obj\x86\Debug\Timer PC.xml
+C:\Users\merli\AppData\Local\Temporary Projects\Timer PC\obj\x86\Debug\Timer PC.pdb
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Timer PC\Timer PC\obj\x86\Debug\Timer PC.exe
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Timer PC\Timer PC\obj\x86\Debug\Timer PC.xml
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Timer PC\Timer PC\obj\x86\Debug\Timer PC.pdb
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Timer PC\Timer PC\bin\Debug\Timer PC.exe
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Timer PC\Timer PC\bin\Debug\Timer PC.pdb
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Timer PC\Timer PC\bin\Debug\Timer PC.xml
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Timer PC\Timer PC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Timer PC\Timer PC\obj\x86\Debug\Timer_PC.Form1.resources
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Timer PC\Timer PC\obj\x86\Debug\Timer_PC.Resources.resources
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Timer PC\Timer PC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Timer PC\Timer PC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Timer PC\Timer PC\obj\x86\Debug\Timer_PC.Form2.resources
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Timer PC\Timer PC\Timer PC\obj\x86\Debug\Timer PC.exe
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Timer PC\Timer PC\Timer PC\obj\x86\Debug\Timer PC.xml
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Timer PC\Timer PC\Timer PC\obj\x86\Debug\Timer PC.pdb
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Timer PC\Timer PC\obj\x86\Debug\Timer PC.exe
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Timer PC\Timer PC\obj\x86\Debug\Timer PC.xml
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Timer PC\Timer PC\obj\x86\Debug\Timer PC.pdb
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Timer PC\Timer PC\bin\Debug\Timer PC.exe
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Timer PC\Timer PC\bin\Debug\Timer PC.pdb
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Timer PC\Timer PC\bin\Debug\Timer PC.xml
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Timer PC\Timer PC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Timer PC\Timer PC\obj\x86\Debug\Timer_PC.Form1.resources
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Timer PC\Timer PC\obj\x86\Debug\Timer_PC.Form2.resources
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Timer PC\Timer PC\obj\x86\Debug\Timer_PC.Resources.resources
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Timer PC\Timer PC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Timer PC\Timer PC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Timer PC\Timer PC\Timer PC\bin\Debug\Timer PC.exe
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Timer PC\Timer PC\Timer PC\bin\Debug\Timer PC.pdb
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Timer PC\Timer PC\Timer PC\bin\Debug\Timer PC.xml
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Timer PC\Timer PC\Timer PC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Timer PC\Timer PC\Timer PC\obj\x86\Debug\Timer_PC.Form1.resources
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Timer PC\Timer PC\Timer PC\obj\x86\Debug\Timer_PC.Form2.resources
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Timer PC\Timer PC\Timer PC\obj\x86\Debug\Timer_PC.Resources.resources
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Timer PC\Timer PC\Timer PC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\Timer PC\Timer PC\Timer PC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Timer PC\Timer PC\obj\x86\Debug\Timer PC.exe
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Timer PC\Timer PC\obj\x86\Debug\Timer PC.xml
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Timer PC\Timer PC\obj\x86\Debug\Timer PC.pdb
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Timer PC\Timer PC\bin\Debug\Timer PC.exe
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Timer PC\Timer PC\bin\Debug\Timer PC.pdb
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Timer PC\Timer PC\bin\Debug\Timer PC.xml
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Timer PC\Timer PC\obj\x86\Debug\Timer_PC.Form1.resources
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Timer PC\Timer PC\obj\x86\Debug\Timer_PC.Resources.resources
+C:\Users\GiadaJordan\Desktop\Giada & Jordan\Nanoteck™\Progetti\Timer PC\Timer PC\obj\x86\Debug\Timer PC.vbproj.GenerateResource.Cache
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Timer PC\Timer PC\Timer PC\obj\x86\Debug\Timer PC.exe
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Timer PC\Timer PC\Timer PC\obj\x86\Debug\Timer PC.xml
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Timer PC\Timer PC\Timer PC\obj\x86\Debug\Timer PC.pdb
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Timer PC\Timer PC\Timer PC\bin\Debug\Timer PC.exe
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Timer PC\Timer PC\Timer PC\bin\Debug\Timer PC.pdb
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Timer PC\Timer PC\Timer PC\bin\Debug\Timer PC.xml
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Timer PC\Timer PC\Timer PC\obj\x86\Debug\Timer_PC.Form1.resources
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Timer PC\Timer PC\Timer PC\obj\x86\Debug\Timer_PC.Resources.resources
+C:\Users\rstore\Box Sync\Progetti\01. Finale\Timer PC\Timer PC\Timer PC\obj\x86\Debug\Timer PC.vbproj.GenerateResource.Cache
